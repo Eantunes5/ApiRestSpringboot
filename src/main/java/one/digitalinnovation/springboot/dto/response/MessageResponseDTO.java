@@ -1,4 +1,4 @@
-package one.digitalinnovation.springboot.dto;
+package one.digitalinnovation.springboot.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
